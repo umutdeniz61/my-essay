@@ -1,0 +1,5 @@
+Q1: Which method helps you understand your changes better?
+Answer: GitHub website helps me understand changes better because it shows changes visually.
+
+Q2: Can you see how your essay developed over time?
+Answer: Yes, I can see how my essay developed through the three commits.
